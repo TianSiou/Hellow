@@ -1,0 +1,12 @@
+function Info_linear_system = LS_settings(n_dim, shift_nu0, freq, B)
+    Info_linear_system.dimension   = n_dim;
+    Info_linear_system.tol         = 1e-12;
+    Info_linear_system.solver      = 'gmres';
+    Info_linear_system.solver_pretreat = 'tfqmr';
+    Info_linear_system.v0          = rand(n_dim,1);
+    Info_linear_system.isprecond   = 1;
+    Info_linear_system.maxit       = 100;
+    Info_linear_system.restartSize = 30;
+    Info_linear_system.shift_palindromic = shift_nu0;
+    % 選擇線性系統 Qp*x = b 的 precondition 參數 a_eps
+    Info_linear_system.alpha = 0.5*0.25*(shift_nu0-1)^2*freq^2*sum(B.B_eps)/n_dim;

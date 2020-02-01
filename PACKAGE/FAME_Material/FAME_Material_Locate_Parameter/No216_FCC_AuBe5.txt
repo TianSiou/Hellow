@@ -1,0 +1,23 @@
+#data_name
+No216_FCC_AuBe5
+#material_num
+2
+#lattice_type
+face_centered_cubic
+#lattice_constant
+6.100000 0.0 0.0 0.0 0.0 0.0 
+#sphere_num
+1
+5
+#sphere_centers
+0.000000 0.000000 0.000000 
+0.250000 0.250000 0.250000 0.625000 0.625000 0.625000 0.625000 0.625000 0.125000 0.625000 0.125000 0.625000 0.125000 0.625000 0.625000 
+#sphere_radius
+0.100000 
+0.100000 0.100000 0.100000 0.100000 0.100000 
+#cylinder_num
+0
+0
+#cylinder_top_centers
+#cylinder_bot_centers
+#cylinder_radius

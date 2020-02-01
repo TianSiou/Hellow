@@ -1,0 +1,19 @@
+#data_name
+No221_SC_alpha_Po
+#material_num
+1
+#lattice_type
+simple_cubic
+#lattice_constant
+3.340000 0.0 0.0 0.0 0.0 0.0 
+#sphere_num
+1
+#sphere_centers
+0.000000 0.000000 0.000000 
+#sphere_radius
+0.100000 
+#cylinder_num
+0
+#cylinder_top_centers
+#cylinder_bot_centers
+#cylinder_radius

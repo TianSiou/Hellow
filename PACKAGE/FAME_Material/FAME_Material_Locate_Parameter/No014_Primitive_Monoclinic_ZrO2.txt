@@ -1,0 +1,29 @@
+#data_name
+No014_Primitive_Monoclinic_ZrO2
+#material_num
+2
+#lattice_type
+primitive_monoclinic
+#lattice_constant
+5.211600 5.150500 5.317300 1.409702 0.0 0.0 
+#sphere_num
+1
+1
+#sphere_centers
+0.331700 0.070000 0.344700 
+0.039500 0.275400 0.208300 
+#sphere_radius
+0.100000 
+0.100000 
+#cylinder_num
+1
+1
+#cylinder_top_centers
+0.185600 0.172700 0.276500 
+0.185600 0.172700 0.276500 
+#cylinder_bot_centers
+0.331700 0.070000 0.344700 
+0.039500 0.275400 0.208300 
+#cylinder_radius
+0.100000 
+0.100000 

@@ -1,0 +1,6 @@
+function G = FAME_Material_Isofunction_BCC_SingleGyroid( x,y,z,a1,a2,a3,lattice_constant_a )
+    Fun_Gyroid_1 = @(x,y,z) sin(2*pi*x/lattice_constant_a).*cos(2*pi*y/lattice_constant_a) + ...
+                            sin(2*pi*y/lattice_constant_a).*cos(2*pi*z/lattice_constant_a) + ...
+                            sin(2*pi*z/lattice_constant_a).*cos(2*pi*x/lattice_constant_a);
+    G{1} = Fun_Gyroid_1(x,y,z);
+end

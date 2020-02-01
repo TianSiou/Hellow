@@ -1,0 +1,27 @@
+#data_name
+No187_Hexagonal_BaPtSb
+#material_num
+3
+#lattice_type
+hexagonal
+#lattice_constant
+4.535000 0.0 4.884000 0.0 0.0 0.0 
+#sphere_num
+1
+1
+1
+#sphere_centers
+0.000000 0.000000 0.000000 
+0.333333 0.666667 0.500000 
+0.666667 0.333333 0.500000 
+#sphere_radius
+0.100000 
+0.100000 
+0.100000 
+#cylinder_num
+0
+0
+0
+#cylinder_top_centers
+#cylinder_bot_centers
+#cylinder_radius

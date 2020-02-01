@@ -1,0 +1,10 @@
+function Info_GTSHIRA = GTSHIRA_settings(n_dim, shift_nu0)
+    Info_GTSHIRA.matrix_size = n_dim;
+    Info_GTSHIRA.shift       = shift_nu0;
+    Info_GTSHIRA.eigenwanted = 6;
+    Info_GTSHIRA.tol         = 1e-10;
+    Info_GTSHIRA.maxit       = 100;
+    Info_GTSHIRA.p           = 30;
+    Info_GTSHIRA.v0          = rand(2*n_dim,1);
+    Info_GTSHIRA.v0          = Info_GTSHIRA.v0/norm(Info_GTSHIRA.v0);
+    Info_GTSHIRA.restart_info  = 'no';

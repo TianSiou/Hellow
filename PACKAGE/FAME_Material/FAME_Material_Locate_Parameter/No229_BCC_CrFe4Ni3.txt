@@ -1,0 +1,27 @@
+#data_name
+No229_BCC_CrFe4Ni3
+#material_num
+3
+#lattice_type
+body_centered_cubic
+#lattice_constant
+5.740000 0.0 0.0 0.0 0.0 0.0 
+#sphere_num
+1
+3
+4
+#sphere_centers
+0.000000 0.000000 0.000000 
+0.000000 0.500000 0.500000 0.500000 0.000000 0.500000 0.500000 0.500000 0.000000 
+0.500000 0.500000 0.500000 0.000000 0.000000 0.500000 0.000000 0.500000 0.000000 0.500000 0.000000 0.000000 
+#sphere_radius
+0.100000 
+0.100000 0.100000 0.100000 
+0.100000 0.100000 0.100000 0.100000 
+#cylinder_num
+0
+0
+0
+#cylinder_top_centers
+#cylinder_bot_centers
+#cylinder_radius

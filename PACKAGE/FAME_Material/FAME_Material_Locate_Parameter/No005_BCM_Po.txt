@@ -1,0 +1,19 @@
+#data_name
+No005_BCM_Po
+#material_num
+1
+#lattice_type
+base_centered_monoclinic
+#lattice_constant
+7.420000 4.290000 14.100000 1.535890 0.0 0.0 
+#sphere_num
+6
+#sphere_centers
+0.320000 0.780000 0.245000 0.220000 0.680000 0.755000 0.930000 0.330000 0.400000 0.670000 0.070000 0.600000 0.675000 0.815000 0.070000 0.185000 0.325000 0.930000 
+#sphere_radius
+0.100000 0.100000 0.100000 0.100000 0.100000 0.100000 
+#cylinder_num
+0
+#cylinder_top_centers
+#cylinder_bot_centers
+#cylinder_radius

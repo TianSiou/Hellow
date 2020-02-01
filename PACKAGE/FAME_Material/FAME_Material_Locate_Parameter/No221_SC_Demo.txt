@@ -1,0 +1,22 @@
+#data_name
+No221_SC_Demo
+#material_num
+1
+#lattice_type
+simple_cubic
+#lattice_constant
+1.000000 0.0 0.0 0.0 0.0 0.0 
+#sphere_num
+1
+#sphere_centers
+0.000000 0.000000 0.000000 
+#sphere_radius
+0.100000 
+#cylinder_num
+3
+#cylinder_top_centers
+1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 
+#cylinder_bot_centers
+0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 
+#cylinder_radius
+0.100000 0.100000 0.100000 

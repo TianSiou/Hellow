@@ -1,0 +1,23 @@
+#data_name
+No012_Primitive_Monoclinic_beta_Ga2O3
+#material_num
+2
+#lattice_type
+primitive_monoclinic
+#lattice_constant
+3.082969 5.876153 12.452446 1.331972 0.0 0.0 
+#sphere_num
+1
+1
+#sphere_centers
+0.341590 0.314082 0.000000 
+0.004103 0.256491 0.500000 
+#sphere_radius
+0.100000 
+0.100000 
+#cylinder_num
+0
+0
+#cylinder_top_centers
+#cylinder_bot_centers
+#cylinder_radius
